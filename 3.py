@@ -1,3 +1,3 @@
-n=input()
-s=n[::-1]
-print(s)
+t=input()
+i=t[::-1]
+print(i)
