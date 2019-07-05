@@ -3,4 +3,4 @@ s = input().lower()
 if s in vo:
   print('Vowel')
 else:
-  print('consonant')
+  print('Consonant')
